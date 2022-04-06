@@ -1,0 +1,38 @@
+
+body {
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  margin-top: 0;
+}
+.top-container {
+  background-color: #E4F9F5;
+}
+/*.middle-container{
+  background-color: red;
+
+}*/
+/*.bottom-container{
+  background-color: blue;
+
+
+
+}
+.bottom-cloud{
+  position: absolute;
+}*/
+.img1{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border-color: black;
+}
+.skill1{
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+.skill-img{
+  border-radius: 50%;
+}
